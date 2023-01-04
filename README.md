@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/walid-mostafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walid-mostafa/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17033785/walid-mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17033785/walid-mostafa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@wella4ever" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="@wella4ever" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/@wella4ever" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/tiktok-2270636-1891163.png" alt="@wella4ever" height="30" width="30" /></a>
 <a href="https://discord.gg/wella4life#5990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wella4life#5990" height="30" width="40" /></a>
 </p>
 
